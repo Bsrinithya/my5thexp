@@ -1,0 +1,7 @@
+//This is my second file in 5th experiment 
+//swap two elements 
+int a,b;
+int temp=a;
+a=b;
+b=temp;
+print a,b;
