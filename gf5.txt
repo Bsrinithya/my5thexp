@@ -1,0 +1,5 @@
+//This is 5th file of my 5th experiment
+//division of two elements
+int a,b,c;
+c=a/b;
+print c;
