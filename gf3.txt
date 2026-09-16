@@ -1,0 +1,5 @@
+//This is third file of my 5th experiment 
+//subtraction of two elements
+int a,b,c;
+c=a-b;
+print c;
